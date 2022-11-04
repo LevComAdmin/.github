@@ -1,3 +1,2 @@
-## Hi there 👋
-
-The profile created for help @LevaCompany
+# Hi there 👋
+The profile created for help **@LevaCompany**
